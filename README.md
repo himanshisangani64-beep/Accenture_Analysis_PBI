@@ -157,7 +157,7 @@ The dashboard explores the following HR-related questions:
 **Business Focus:** Identify major workforce departments, city-wise employee concentration, and employee growth trends.
 
 <p align="center">
-  <img src="Dashboard_Screenshots/01_Workforce_Overview.png" width="100%" alt="Workforce Overview Dashboard"/>
+  <img src="Asets/Dashboard Image/Page_1.png" width="100%" alt="Workforce Overview Dashboard"/>
 </p>
 <p align="center"><i>Figure 1 – Workforce Overview Dashboard</i></p>
 
@@ -181,7 +181,7 @@ The dashboard explores the following HR-related questions:
 **Business Focus:** Identify employee exit patterns and understand workforce retention.
 
 <p align="center">
-  <img src="Dashboard_Screenshots/02_Attrition_Retention.png" width="100%" alt="Attrition and Retention Dashboard"/>
+  <img src="Asets/Dashboard Image/Page_2.png" width="100%" alt="Attrition and Retention Dashboard"/>
 </p>
 <p align="center"><i>Figure 2 – Attrition & Retention Dashboard</i></p>
 
@@ -205,7 +205,7 @@ The dashboard explores the following HR-related questions:
 **Business Focus:** Understand compensation structures and payroll distribution.
 
 <p align="center">
-  <img src="Dashboard_Screenshots/03_Compensation_Salary.png" width="100%" alt="Compensation and Salary Dashboard"/>
+  <img src="Asets/Dashboard Image/Page_3.png" width="100%" alt="Compensation and Salary Dashboard"/>
 </p>
 <p align="center"><i>Figure 3 – Compensation & Salary Dashboard</i></p>
 
@@ -229,7 +229,7 @@ The dashboard explores the following HR-related questions:
 **Business Focus:** Understand employee performance and training effectiveness.
 
 <p align="center">
-  <img src="Dashboard_Screenshots/04_Performance_Promotion.png" width="100%" alt="Performance and Promotion Dashboard"/>
+  <img src="Asets/Dashboard Image/Page_4.png" width="100%" alt="Performance and Promotion Dashboard"/>
 </p>
 <p align="center"><i>Figure 4 – Performance & Promotion Dashboard</i></p>
 
@@ -252,7 +252,7 @@ The dashboard explores the following HR-related questions:
 **Business Focus:** Combine important HR metrics into one consolidated management view.
 
 <p align="center">
-  <img src="Dashboard_Screenshots/05_Executive_HR_Summary.png" width="100%" alt="Executive HR Summary Dashboard"/>
+  <img src="Asets/Dashboard Image/Page_5.png" width="100%" alt="Executive HR Summary Dashboard"/>
 </p>
 <p align="center"><i>Figure 5 – Executive HR Summary Dashboard</i></p>
 
